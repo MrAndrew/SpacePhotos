@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1484375" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1484375" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout-sw600dp/fragment_photo_detail.xml" value="0.128" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout-sw600dp/fragment_photo_list.xml" value="0.1" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/activity_item_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/activity_photo_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/activity_photos.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/activity_temp_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/fragment_item_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/fragment_item_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/fragment_photo_detail.xml" value="0.176" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/fragment_photo_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/item_list_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/layout/photo_list_content.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/Dev/AndroidStudioProjects/SpacePhotos/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
