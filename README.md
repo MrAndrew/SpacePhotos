@@ -2,9 +2,11 @@
 A simple Android application showing photos from NASA.
 
 
-NOTE: YOU NEED TO ADD A FILE CALLED `ApiKeys.kt` with the following value:
+NOTE: You need to add a file called `ApiKeys.kt` in `src/main/java/com/example/spacephotos/utils/` with the following value:
 
 ```
+package com.example.spacephotos.utils
+
 object ApiKeys {
     val nasa_api_key = YOUR_API_KEY
 }
